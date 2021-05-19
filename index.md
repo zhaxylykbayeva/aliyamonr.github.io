@@ -4,11 +4,11 @@
 
 ### Personal Projects
 
-Spotify Insights (/sample page)
+[Spotify Insights](/Spotify page)
 <img src="Spotify Porject thumbnail.png?raw=true"/>
 
 ---
-Netflix Data Exploration
+[Netflix Data Exploration](/Netflix page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
