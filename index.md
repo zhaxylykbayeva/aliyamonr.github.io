@@ -9,7 +9,7 @@
 
 ---
 [Netflix Data Exploration](/Netflix page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="493f5bba-81a4-11e9-bf79-066b49664af6_cm_1440w.png?raw=true"/>
 
 ---
 
