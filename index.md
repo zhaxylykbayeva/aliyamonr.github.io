@@ -4,7 +4,7 @@
 
 ### Personal Projects
 
-Spotify Insights 
+Spotify Insights (/sample page)
 <img src="Spotify Porject thumbnail.png?raw=true"/>
 
 ---
