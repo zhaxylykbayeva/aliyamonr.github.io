@@ -2,22 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Spotify Insights (/sample_page)
+<img src="Spotify Porject thumbnail.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+Netflix Data Exploration (/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+
+### Academic Projects
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
