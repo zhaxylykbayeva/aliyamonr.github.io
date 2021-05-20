@@ -32,7 +32,7 @@ for i in genre:
 
 ### 2. Here are the results of root mean squared error by genre:
 
-<img src="/predictions by genre.png" alt="hi" class="inline"/>
+<img src="/predictions by genre.png" alt="hi" class="inline" width="550" height="660">
 
 Even with less data in each training set, when analyzing by genre, the testing error (RMSE) was lower than the overall error. While some genres like Children's Music or Reggaeton are harder to predict with high accuracy, this experiment has proven that it is very important to take descriptive features like genre into account.
 
@@ -65,7 +65,7 @@ From linear regression analysis I performed above estimates that **danceability*
 
 Speechiness and valence, on the other hand, had the biggest negative effect on popularity. Longer songs are more popular, but there's a diminishing return, indicated by the negative quadratic term (duration_sq).
 
-<img src="images/linear regression results.png" alt="linearregression" width="600" height="600" class="inline"/>
+<img src="images/linear regression results.png" alt="linearregression" width="480" height="500" class="inline"/>
 
 
 You can check out the entire project linked <a href="Spotify Project.ipynb" title="here.">here.</a>
